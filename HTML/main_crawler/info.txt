@@ -1,0 +1,24 @@
+Crawlers that use selenium Webdriver,
+  Canpoint
+  Xiangpi
+
+Crawlers that go by id increment method
+  dearedu_2 - slow
+  ks5u - fast
+  daliankao_2 - fast
+  tl100 - fast
+
+tab clicking method
+  dearedu
+  ht88
+  canpoint
+
+DEPRECATED crawlers
+  zxxk.py - some elements cannot be retrieved. New zxxk.py in gather
+            fixes this by getting data straight from our database itself
+
+  dearedu - tab clicking method does not get all data
+
+  ht88 - does not work anymore for some unknown reason. trying the icnrement method
+
+  tl100 - works well, but the website itself seems inactive.

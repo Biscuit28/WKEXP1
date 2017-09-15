@@ -1,0 +1,1153 @@
+[INFO  - 2017-07-31T01:35:18.705Z] GhostDriver - Main - running on port 50779
+[INFO  - 2017-07-31T01:35:19.368Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-07-31T01:35:19.368Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.customHeaders:  - {}
+[INFO  - 2017-07-31T01:35:19.368Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-07-31T01:35:19.369Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 831e9750-7590-11e7-9dbc-afe2efba1a9b
+[ERROR - 2017-07-31T01:35:24.216Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:35:24.216Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:35:26.419Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:35:26.419Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:35:56.378Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:35:56.378Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:35:58.220Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:35:58.220Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:35:58.858Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:35:58.858Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:36:00.920Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:36:00.920Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:36:31.088Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:36:31.088Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:36:56.138Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:36:56.138Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:36:57.854Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:36:57.855Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:37:26.821Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:37:26.821Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:37:28.584Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:37:28.584Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:37:29.406Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:37:29.406Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:37:31.310Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:37:31.310Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:37:58.856Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:37:58.856Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:37:59.797Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:37:59.797Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:38:01.432Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:38:01.432Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:38:27.072Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:38:27.072Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:38:28.663Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:38:28.663Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:38:31.018Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:38:31.018Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:38:33.109Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:38:33.109Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:38:59.708Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:38:59.708Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:39:01.675Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:39:01.675Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:39:02.695Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:39:02.696Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:39:04.469Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:39:04.469Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:39:31.696Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:39:31.697Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:39:32.714Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:39:32.714Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:39:35.430Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:39:35.431Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:40:03.084Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:40:03.084Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:40:04.789Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:40:04.789Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:40:05.754Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:40:05.754Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:40:07.573Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:40:07.573Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:40:08.346Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:40:08.346Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:40:10.086Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:40:10.086Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-07-31T01:40:18.714Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-07-31T01:40:39.960Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:40:39.961Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:40:42.714Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:40:42.714Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:41:10.546Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:41:10.546Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:41:41.032Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:41:41.032Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:41:47.359Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:41:47.359Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:42:16.199Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:42:16.199Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:42:17.850Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:42:17.850Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:42:45.385Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:42:45.385Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:42:47.191Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:42:47.191Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:43:19.103Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:43:19.103Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:43:19.873Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:43:19.874Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:43:21.514Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:43:21.514Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:43:50.149Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:43:50.149Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:43:51.892Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:43:51.892Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:44:21.756Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:44:21.756Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:44:23.617Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:44:23.617Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:44:51.177Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:44:51.177Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:44:53.335Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:44:53.335Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-07-31T01:45:18.723Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-07-31T01:45:22.630Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:45:22.630Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:45:52.405Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:45:52.405Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:45:54.760Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:45:54.760Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:46:21.776Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:46:21.776Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:46:23.341Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:46:23.341Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:46:51.938Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:46:51.938Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:46:53.548Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:46:53.548Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:47:22.747Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:47:22.747Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:47:25.230Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:47:25.230Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:47:53.284Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:47:53.284Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:47:54.920Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:47:54.920Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:48:23.416Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:48:23.416Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:48:24.968Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:48:24.968Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:48:56.210Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:48:56.210Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:49:25.665Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:49:25.665Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:49:54.221Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:49:54.221Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:49:55.805Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:49:55.805Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-07-31T01:50:18.732Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[ERROR - 2017-07-31T01:50:27.326Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:50:27.326Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:50:54.600Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:50:54.600Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:50:56.429Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:50:56.429Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:51:25.034Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:51:25.034Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:51:26.757Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:51:26.757Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:51:59.211Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:51:59.212Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:52:00.204Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:52:00.204Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:52:02.818Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:52:02.818Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:52:03.406Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:52:03.406Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:52:05.045Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:52:05.046Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:52:32.175Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:52:32.176Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:53:04.619Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:53:04.620Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:53:31.119Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:53:31.119Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:53:32.777Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:53:32.777Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:53:34.385Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:53:34.385Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:53:36.082Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'objField.value')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:53:36.082Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  CheckNotNull (http://www.canpoint.cn/script/TSCheckForm.js:19)
+  RegFormCheck (http://www.canpoint.cn/Register.aspx:44)
+  onclick (http://www.canpoint.cn/Register.aspx:604)
+  dispatchEvent (:0)
+  U (:119)
+  $ (:108)
+  $ (:101)
+  gh (:141)
+  sh (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:152)
+  (anonymous function) (:153)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:54:01.193Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - msg: ReferenceError: Can't find variable: CheckSFYXXZC
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-07-31T01:54:01.193Z] Session [831e9750-7590-11e7-9dbc-afe2efba1a9b] - page.onError - stack:
+  onload (http://www.canpoint.cn/member.aspx:83)
+
+  phantomjs://platform/console++.js:263 in error

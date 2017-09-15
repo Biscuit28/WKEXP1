@@ -1,0 +1,69 @@
+学科网ZXXK xs
+两年同步试题 u
+河北省承德地区 u
+北师大新版 u
+泄露天机 u
+单元巩固练习 u
+三角形 u
+北师大版 u
+解析版 u
+Ks5u首发 x
+KS5U推荐 x
+第一单元 u
+第二单元 u
+第三单元 u
+第四单元 u
+第五单元 u
+第六单元 u
+第七单元 u
+第八单元 u
+第九单元 u
+中学联盟 x
+七年级 u
+八年级 u
+九年级 u
+2017届 u
+1月 u
+2月 u
+3月 u
+4月 u
+5月 u
+6月 u
+7月 u
+8月 u
+9月 u
+10月 u
+11月 u
+12月 u
+月考 u
+优选整合 x
+精品解析 x
+2017年 u
+上 u
+下 u
+第1辑 u
+第2辑 u
+第3辑 u
+Word版 x
+WORD版 x
+含答案 x
+及 x
+高 uj
+ks5u x
+word x
+解析 x
+解析版 x
+data.append({'id': 'ks5u', 'type': 'xkw_ks5u', 'name': u'高考资源网'})
+data.append({'id': 'zk5u', 'type': 'xkw_zk5u', 'name': u'中考资源网'})
+data.append({'id': 'twentyOne', 'type': 'xkw_twentyOne', 'name': u'21世纪'})
+data.append({'id': 'ht88', 'type': 'xkw_ht88', 'name': u'育星教育网'})
+data.append({'id': 'daliankao', 'type': 'xkw_daliankao', 'name': u'全国大联考'})
+data.append({'id': 'jtyhjyGaozhong', 'type': 'xkw_jtyhjyGaozhong', 'name': u'金太阳好教育'})
+data.append({'id': 'canpoint', 'type': 'xkw_canpoint', 'name': u'全品教学网'})
+data.append({'id': 'ziyuanku', 'type': 'xkw_ziyuanku', 'name': u'中华资源库'})
+data.append({'id': 'xueyou', 'type': 'xkw_xueyou', 'name': u'学优网'})
+data.append({'id': 'hengqian', 'type': 'xkw_hengqian', 'name': u'恒谦教育网'})
+data.append({'id': 'jb1000', 'type': 'xkw_jb1000', 'name': u'教育资源网'})
+data.append({'id': 'xiangpi', 'type': 'xkw_xiangpi', 'name': u'橡皮网'})
+data.append({'id': 'dearedu', 'type': 'xkw_dearedu', 'name': u'第二教育网'})
+data.append({'id': 'tl100', 'type': 'xkw_tl100', 'name': u'天利网'})

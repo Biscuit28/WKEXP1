@@ -1,0 +1,23 @@
+[INFO  - 2017-08-23T02:52:16.753Z] GhostDriver - Main - running on port 52217
+[INFO  - 2017-08-23T02:52:17.203Z] Session [13108b00-87ae-11e7-b9e6-a576ec16260c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2017-08-23T02:52:17.204Z] Session [13108b00-87ae-11e7-b9e6-a576ec16260c] - page.customHeaders:  - {}
+[INFO  - 2017-08-23T02:52:17.204Z] Session [13108b00-87ae-11e7-b9e6-a576ec16260c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.11 (El Capitan)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2017-08-23T02:52:17.204Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 13108b00-87ae-11e7-b9e6-a576ec16260c
+[ERROR - 2017-08-23T02:52:20.726Z] Session [13108b00-87ae-11e7-b9e6-a576ec16260c] - page.onError - msg: TypeError: undefined is not an object (evaluating '$.browser.msie')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2017-08-23T02:52:20.726Z] Session [13108b00-87ae-11e7-b9e6-a576ec16260c] - page.onError - stack:
+  (anonymous function) (http://gk.canpoint.cn/js/blockUI.js:29)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2017-08-23T02:57:16.935Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-23T03:02:16.936Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-23T03:07:16.937Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-23T03:12:16.938Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-23T03:17:16.939Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-23T03:22:16.940Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-23T03:27:16.941Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-23T03:32:16.941Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-23T03:37:16.942Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-23T03:42:16.943Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2017-08-23T03:47:16.944Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
